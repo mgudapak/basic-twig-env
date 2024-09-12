@@ -1,0 +1,7 @@
+{
+    "require": {
+        "twig/twig": "^3",
+        "symfony/amphp-http-client-meta": "^1.0",
+        "symfony/http-foundation": "^6.4"
+    }
+}
